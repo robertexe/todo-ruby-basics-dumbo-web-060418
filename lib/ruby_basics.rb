@@ -10,7 +10,7 @@ def argue(arg)
   return arg
 end
 
-def greeting(greeting, arg2)
+def greeting(greeting, name)
 
 end
 
@@ -19,9 +19,9 @@ def return_a_value
 end
 
 def last_evaluated_value
-
+  phrase = "expert"
 end
 
-def pizza_party
-
+def pizza_party(phrase = 'cheese')
+  return phrase
 end
