@@ -19,6 +19,9 @@ def return_a_value
 end
 
 def last_evaluated_value
+  random = "random"
+  phrase = "Jupitor"
+  phrase = "Nice"
   phrase = "expert"
 end
 
